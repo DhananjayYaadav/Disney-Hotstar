@@ -48,7 +48,7 @@ Create a dynamic web page using JavaScript which will allow the user to play a g
 8. Any images used should be referenced in the comments of your code. Please ensure to use the **actual website** the image is from and not just Google Images.
 9. As the Disney title is licensed and copyrighted material, please include the copyright information for Disney in the footer.
 
-Zip your project folder into one file and upload it through Canvas
+Zip your project folder into one file and upload it through Canvas.
 using the link for your class group.
 
 ##### Patrik Richard Szilagyi, 2020
