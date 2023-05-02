@@ -1,6 +1,6 @@
 <img src="https://socsportal.cit.ie/assets/images/logowhite.jpg" alt="Cork Institute of Technology" width="25%" />
 
-# SOFT6007 - Web Development Fundamentals Project 2
+Web Development Fundamentals Project 
 
 [![Demo](https://repository-images.githubusercontent.com/357985915/1135928b-51fe-47bd-b0b4-9c2d307ab02f)](https://szpricky.github.io/disney-character-game)
 
@@ -27,8 +27,7 @@ Create a dynamic web page using JavaScript which will allow the user to play a g
 -   An image in the first column on the left that when you move the mouse over the image it changes and when you remove the mouse from over it, the image reverts back to the original.
 -   An input box to allow the user to enter their favourite character from a list of characters that you provide – these should match the character names that you have selected to use in the random game.
 -   A button to allow the user to choose a Disney character, e.g. →
-    -   You should have at least 4 Disney characters that can be randomly selected when the user clicks the button.
-        -   A JavaScript event listener will call the function to randomly select a number between 1 – 4 (or more), then based on that number will display the information about one of the Disney characters.
+    -   You should have at least 4 Disney characters that can be randomly selected when the user clicks the button
     -   When the random number is selected by the function, it should contain data to fill in relevant sections on the webpage to provide the biography for the selected character. Remember that you can mark the areas of HTML where you want the information to be entered using `id=""`, and if necessary enclosing the id in a `<span>` or `<div>`.
     -   An image of the character should also appear beside the biographical information. Hint: resize all the character images to the same dimensions (width x height).
 -   An input range bar should be inserted into the first column below the menu
