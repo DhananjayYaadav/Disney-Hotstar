@@ -49,5 +49,3 @@ Create a dynamic web page using JavaScript which will allow the user to play a g
 
 Zip your project folder into one file and upload it through Canvas.
 using the link for your class group.
-
-##### Patrik Richard Szilagyi, 2020
