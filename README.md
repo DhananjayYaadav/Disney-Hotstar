@@ -46,6 +46,3 @@ Create a dynamic web page using JavaScript which will allow the user to play a g
 7. If you are looking for icons, please refer to reliable websites such as http://iconspedia.com paying particular attention to the licenses. For example, if the license requires attribution for the icon, then please include it in your website. Do not use Google's Image Search to search for icons because you cannot be sure of the associated licenses.
 8. Any images used should be referenced in the comments of your code. Please ensure to use the **actual website** the image is from and not just Google Images.
 9. As the Disney title is licensed and copyrighted material, please include the copyright information for Disney in the footer.
-
-Zip your project folder into one file and upload it through Canvas.
-using the link for your class group.
